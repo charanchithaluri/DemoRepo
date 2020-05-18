@@ -33,8 +33,8 @@ else if(browserName.equalsIgnoreCase("FF")){
 	driver = new FirefoxDriver();
 }
 	else{
-		System.out.println("no browser name given");
-
+		System.out.println(" given browser not configured");
+		
 	}
    
 	}
