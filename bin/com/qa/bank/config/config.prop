@@ -1,0 +1,12 @@
+########global properties###############
+
+url = http://demo.guru99.com/V1/index.php
+browserName = chrome
+username = mngr260971
+password = pEtaqat
+
+
+#####login page######
+
+
+
